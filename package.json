@@ -132,6 +132,6 @@
     "standard-changelog": "0.0.1",
     "standard-version": "^4.0.0",
     "travis-lint": "1.0.0",
-    "yarn": "0.21.3"
+    "yarn": "1.22.0"
   }
 }
